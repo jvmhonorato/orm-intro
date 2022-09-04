@@ -1,0 +1,7 @@
+1: instalar: npm install mysql2 sequelize
+
+2: iniciar XAMPP
+
+3: npm init -y
+
+4: criar arquivo test.js
