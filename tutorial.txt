@@ -5,3 +5,5 @@
 3: npm init -y
 
 4: criar arquivo test.js
+
+5: instruções no arquivo teste.js
